@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">heartrate</string>
+
+    <string-array name="times">
+        <item>20 segundos (n = 512)</item>
+        <item>40 segundos (n = 1024)</item>
+        <item>80 segundos (n = 2048)</item>
+    </string-array>
+</resources>
